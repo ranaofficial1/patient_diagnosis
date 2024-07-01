@@ -1,0 +1,16 @@
+body {
+  background-color: #cdcfd2;
+}
+/* Custom CSS to handle border radius for the thead */
+.rounded-tl-custom {
+  border-top-left-radius: 24px; /* equivalent to rounded-tl-md */
+  border-bottom-left-radius: 24px;
+}
+.rounded-tr-custom {
+  border-top-right-radius: 24px; /* equivalent to rounded-tr-md */
+  border-bottom-right-radius: 24px;
+
+}
+canvas {
+  height: 210px !important;
+}
